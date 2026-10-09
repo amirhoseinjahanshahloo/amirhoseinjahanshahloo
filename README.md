@@ -30,14 +30,3 @@
 
 </div>
 
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amirhoseinijahanshahloo&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinijahanshahloo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF" />
-
-</div>
