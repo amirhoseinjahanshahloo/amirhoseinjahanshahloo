@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 💜 AMIRHOSSEIN
+# Hi i'm AMIRHOSSEIN
 
 ### Computer Science Student | Python Developer
 
