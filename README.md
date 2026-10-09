@@ -12,7 +12,7 @@
 
 ---
 
-## About Me
+## 👨🏻‍💻About Me
 
 * Computer Science student
 * Learning Python and building projects
@@ -22,7 +22,7 @@
 
 ---
 
-## Tech Stack
+## 💻Tech Stack
 
 <div align="center">
 
