@@ -14,11 +14,11 @@
 
 ## 👨🏻‍💻About Me
 
-* Computer Science student
-* Learning Python and building projects
-* Interested in problem-solving
-* Practicing Git and GitHub
-* Working toward becoming a Backend Developer
+* 💻Computer Science student
+* 🐍Learning Python and building projects
+* 🧩Interested in problem-solving
+* ?Practicing Git and GitHub
+* 🚀Working toward becoming a Backend Developer
 
 ---
 
