@@ -57,7 +57,7 @@
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 *Always learning. Always building.*
 
