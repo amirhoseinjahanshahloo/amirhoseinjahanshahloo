@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi i'm AMIRHOSEIN
+# Hi, I'm AMIRHOSEIN
 
 ### Computer Science Student | Python Developer
 
