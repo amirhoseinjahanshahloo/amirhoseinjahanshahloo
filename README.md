@@ -2,7 +2,7 @@
 
 # Hi, I'm AMIRHOSEIN
 
-### Computer Science Student | Python Developer
+### Computer Science Student ● Python Developer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:9B5DE5&height=180&section=header&text=Welcome%20to%20my%20profile&fontSize=30&fontColor=ffffff&fontAlignY=38" width="100%" />
 
