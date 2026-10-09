@@ -1,7 +1,6 @@
-
 <div align="center">
 
-# Hi i'm AMIRHOSSEIN
+# Hi i'm AMIRHOSEIN
 
 ### Computer Science Student | Python Developer
 
@@ -13,17 +12,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Science student
-- 🐍 Learning Python and building projects
-- 🧠 Interested in problem-solving
-- 🛠️ Practicing Git and GitHub
-- 🎯 Working toward becoming a Backend Developer
+* Computer Science student
+* Learning Python and building projects
+* Interested in problem-solving
+* Practicing Git and GitHub
+* Working toward becoming a Backend Developer
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -33,32 +32,12 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=amirhoseinijahanshahloo&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhoseinijahanshahloo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/amirhoseinijahanshahloo/amirhoseinijahanshahloo/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile!
-
-*Always learning. Always building.*
 
 </div>
